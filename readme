@@ -1,0 +1,5 @@
+-java 8
+-Maven
+-Lombok
+Para testar, subir a aplicacao local e acessar via swagger
+http://localhost:8080/swagger-ui.html
